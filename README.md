@@ -3,3 +3,5 @@ This project focuses on building a credit risk analysis and loan default predict
 In addition to prediction, the project emphasizes business usability and visualization. Multiple graphical outputs are generated to illustrate class distribution, probability of default, ROC performance, and overall model behavior, making the results easier to understand for non-technical stakeholders. The final solution is designed to be app- and dashboard-ready, demonstrating how data analytics can support practical loan approval decisions and credit risk management in banking and fintech environments.
 
 In addition to classification, the project emphasizes business interpretability and decision-making by generating visual insights such as default distribution, income vs loan analysis, correlation heatmaps, ROC curves, and probability-based approval logic using credit score thresholds. The outputs are designed to be easily integrated into dashboards or web applications, making the project suitable for real-world use cases in banking, NBFCs, and fintech credit assessment systems.
+
+Live dashboard and loan approval checking UI: https://insight-dash-approve.lovable.app
